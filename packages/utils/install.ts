@@ -4,6 +4,7 @@ type SFCWithInstall<T> = T & Plugin
 
 export function makeInstaller(components: Plugin[]) {
     return (app: App) => {
+        console.log('makeInstaller', app)
         components.forEach((c) => {
             app.use(c)
         })

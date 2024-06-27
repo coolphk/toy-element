@@ -6,5 +6,5 @@ import ToyElement from "toy-element"
 const app = createApp(App)
 console.log(app)
 app.use(ToyElement)
-    .mount('#app')
+app.mount('#app')
 
