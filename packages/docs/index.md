@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Toy-Element"
-  text: "高仿ElementPlus组件库"
+  name: "My Awesome Project"
+  text: "A VitePress Site"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Feature A
-    details: aaaaaaa
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C
