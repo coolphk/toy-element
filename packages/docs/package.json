@@ -15,4 +15,4 @@
   "devDependencies": {
     "vitepress": "1.1.4"
   }
-}ERR_PNPM_NO_LOCKFILE  Cannot install with "frozen-lockfile" because pnpm-lock.yaml is absent
+}
